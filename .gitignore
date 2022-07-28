@@ -1,2 +1,3 @@
 build/
 migrations/Migrations.sol
+truffle-config.js
